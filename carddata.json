@@ -1,0 +1,17 @@
+
+{
+  "profiles": [
+    {
+      "name": "Nukala Venkata Supriya",
+      "phone": 999999999,
+      "email": "nukalasupriyasrinivas@gmail.com",
+      "address": "Nellore Dist, Venkatagiri"
+    },
+    {
+      "name": "Yaswanth Sai Palaghat",
+      "phone": 999988888,
+      "email": "yaswanthpalaghat@gmail.com",
+      "address": "Hyderabad, Telangana"
+    }
+  ]
+}
